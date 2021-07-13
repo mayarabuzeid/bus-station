@@ -1,0 +1,10 @@
+smouha,bahary,11:15,12:00,minibus,round,one stop,50.0,20,5773,internal
+janklis,miami,2:30,3:00,limosine,one way,no stop,100.0,0,5837,external
+miami,smouha,6:30,6:45,bus,round,many stop,25.0,1,3634,internal
+kabary,cairo,12:10,12:30,minibus,round,one stop,100.0,5,0685,external
+cairo,dahab,8:45,9:15,limosine,one way,many stop,500.0,10,2000,internal
+smouha,bahary,11:15,12:00,minibus,one way,one stop,100,20,5774,internal
+janklis,miami,2:30,3:00,limosine,round,no stop,50.0,0,5838,external
+miami,smouha,6:30,6:45,bus,one way,many stop,50,1,3635,internal
+kabary,cairo,12:10,12:30,minibus,one way,one stop,150.0,4,0686,external
+cairo,dahab,8:45,9:15,limosine,round,many stop,250,10,2001,internal
